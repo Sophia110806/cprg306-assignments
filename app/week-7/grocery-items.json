@@ -1,0 +1,32 @@
+[
+    {
+        "id": "a1b2c3d",
+        "name": "bananas 🍌",
+        "quantity": 6,
+        "category": "produce"
+    },
+    {
+        "id": "e4f5g6h",
+        "name": "bread 📦",
+        "quantity": 2,
+        "category": "bakery"
+    },
+    {
+        "id": "i7j8k9l",
+        "name": "milk, 4 L 🥛",
+        "quantity": 1,
+        "category": "dairy"
+    },
+    {
+        "id": "m1n2o3p",
+        "name": "eggs, dozen 🥚",
+        "quantity": 1,
+        "category": "dairy"
+    },
+    {
+        "id": "q4r5s6t",
+        "name": "chicken breast 🍗",
+        "quantity": 1,
+        "category": "meat"
+    }
+]
